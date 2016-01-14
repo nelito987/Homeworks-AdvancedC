@@ -1,0 +1,9 @@
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.TextFilter\bin\Debug\04.TextFilter.exe.config
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.TextFilter\bin\Debug\04.TextFilter.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.TextFilter\bin\Debug\04.TextFilter.pdb
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.TextFilter\obj\Debug\04.TextFilter.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.TextFilter\obj\Debug\04.TextFilter.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.TextFilter\obj\Debug\04.TextFilter.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.TextFilter\bin\Debug\04.TextFilter.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.TextFilter\obj\Debug\04.TextFilter.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.TextFilter\obj\Debug\04.TextFilter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\16.LittleJohn\bin\Debug\16.LittleJohn.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\16.LittleJohn\bin\Debug\16.LittleJohn.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\16.LittleJohn\bin\Debug\16.LittleJohn.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\16.LittleJohn\bin\Debug\16.LittleJohn.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\16.LittleJohn\obj\Debug\16.LittleJohn.csprojResolveAssemblyReference.cache
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\16.LittleJohn\obj\Debug\16.LittleJohn.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\16.LittleJohn\obj\Debug\16.LittleJohn.pdb

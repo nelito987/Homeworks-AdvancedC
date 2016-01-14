@@ -1,0 +1,6 @@
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\02.ReplaceATag\bin\Debug\02.ReplaceATag.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\02.ReplaceATag\obj\Debug\02.ReplaceATag.csprojResolveAssemblyReference.cache
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\02.ReplaceATag\obj\Debug\02.ReplaceATag.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\02.ReplaceATag\obj\Debug\02.ReplaceATag.pdb

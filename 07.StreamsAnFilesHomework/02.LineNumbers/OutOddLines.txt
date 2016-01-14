@@ -1,0 +1,26 @@
+  1 using System;
+  2 using System.IO;
+  3 
+  4     class oddLines
+  5     {
+  6         static void Main()
+  7         {
+  8             StreamReader reader = new StreamReader("InOddLines.txt");
+  9             using (reader)
+ 10             {                
+ 11                     int lineNumber = 0;
+ 12                     string line = reader.ReadLine();
+ 13                     while (line != null)
+ 14                     {
+ 15                         lineNumber++;
+ 16                         if (lineNumber % 2 ==1)
+ 17                         {
+ 18                            Console.WriteLine("{0} {1}", lineNumber, line);
+ 19                         }
+ 20                         line = reader.ReadLine();
+ 21                     }
+ 22                 
+ 23             }
+ 24         }
+ 25     }
+ 26 

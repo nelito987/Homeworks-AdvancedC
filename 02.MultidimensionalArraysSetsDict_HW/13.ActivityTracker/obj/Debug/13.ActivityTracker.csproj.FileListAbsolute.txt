@@ -1,0 +1,9 @@
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe.config
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\13.ActivityTracker\bin\Debug\13.ActivityTracker.pdb
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\13.ActivityTracker\obj\Debug\13.ActivityTracker.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\13.ActivityTracker\obj\Debug\13.ActivityTracker.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\13.ActivityTracker\obj\Debug\13.ActivityTracker.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\13.ActivityTracker\obj\Debug\13.ActivityTracker.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\13.ActivityTracker\obj\Debug\13.ActivityTracker.pdb

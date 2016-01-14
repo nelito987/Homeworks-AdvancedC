@@ -1,0 +1,9 @@
+c:\users\neli\documents\visual studio 2013\Projects\07.FunctionalProgramming\07.FunctionalProgramming\bin\Debug\07.FunctionalProgramming.exe.config
+c:\users\neli\documents\visual studio 2013\Projects\07.FunctionalProgramming\07.FunctionalProgramming\bin\Debug\07.FunctionalProgramming.exe
+c:\users\neli\documents\visual studio 2013\Projects\07.FunctionalProgramming\07.FunctionalProgramming\bin\Debug\07.FunctionalProgramming.pdb
+c:\users\neli\documents\visual studio 2013\Projects\07.FunctionalProgramming\07.FunctionalProgramming\obj\Debug\Problems1To12.csprojResolveAssemblyReference.cache
+c:\users\neli\documents\visual studio 2013\Projects\07.FunctionalProgramming\07.FunctionalProgramming\obj\Debug\07.FunctionalProgramming.exe
+c:\users\neli\documents\visual studio 2013\Projects\07.FunctionalProgramming\07.FunctionalProgramming\obj\Debug\07.FunctionalProgramming.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\07.FunctionalProgramming\bin\Debug\07.FunctionalProgramming.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\07.FunctionalProgramming\obj\Debug\07.FunctionalProgramming.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\07.FunctionalProgramming\obj\Debug\07.FunctionalProgramming.pdb

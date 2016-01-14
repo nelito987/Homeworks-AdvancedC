@@ -1,0 +1,9 @@
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\06.ExctractHyprelinks\bin\Debug\06.ExctractHyprelinks.exe.config
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\06.ExctractHyprelinks\bin\Debug\06.ExctractHyprelinks.exe
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\06.ExctractHyprelinks\bin\Debug\06.ExctractHyprelinks.pdb
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\06.ExctractHyprelinks\obj\Debug\06.ExctractHyprelinks.csprojResolveAssemblyReference.cache
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\06.ExctractHyprelinks\obj\Debug\06.ExctractHyprelinks.exe
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\06.ExctractHyprelinks\obj\Debug\06.ExctractHyprelinks.pdb
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\06.ExctractHyprelinks\bin\Debug\06.ExctractHyprelinks.exe.config
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\06.ExctractHyprelinks\obj\Debug\06.ExctractHyprelinks.exe
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\06.ExctractHyprelinks\obj\Debug\06.ExctractHyprelinks.pdb

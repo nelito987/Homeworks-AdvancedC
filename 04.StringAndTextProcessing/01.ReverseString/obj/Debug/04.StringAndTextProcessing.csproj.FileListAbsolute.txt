@@ -1,0 +1,1 @@
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\bin\Debug\04.StringAndTextProcessing.exe.config

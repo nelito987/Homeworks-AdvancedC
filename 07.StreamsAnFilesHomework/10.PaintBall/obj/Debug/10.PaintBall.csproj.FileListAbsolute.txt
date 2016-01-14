@@ -1,0 +1,6 @@
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\10.PaintBall\bin\Debug\10.PaintBall.exe.config
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\10.PaintBall\bin\Debug\10.PaintBall.exe
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\10.PaintBall\bin\Debug\10.PaintBall.pdb
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\10.PaintBall\obj\Debug\10.PaintBall.csprojResolveAssemblyReference.cache
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\10.PaintBall\obj\Debug\10.PaintBall.exe
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\10.PaintBall\obj\Debug\10.PaintBall.pdb

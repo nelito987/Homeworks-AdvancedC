@@ -1,0 +1,6 @@
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\03.EmailExtract\bin\Debug\03.EmailExtract.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\03.EmailExtract\bin\Debug\03.EmailExtract.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\03.EmailExtract\bin\Debug\03.EmailExtract.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\03.EmailExtract\obj\Debug\03.EmailExtract.csprojResolveAssemblyReference.cache
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\03.EmailExtract\obj\Debug\03.EmailExtract.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\03.EmailExtract\obj\Debug\03.EmailExtract.pdb

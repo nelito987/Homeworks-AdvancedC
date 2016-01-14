@@ -1,0 +1,9 @@
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\12.ToTheStars\bin\Debug\12.ToTheStars.exe.config
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\12.ToTheStars\obj\Debug\12.ToTheStars.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\12.ToTheStars\bin\Debug\12.ToTheStars.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\12.ToTheStars\bin\Debug\12.ToTheStars.pdb
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\12.ToTheStars\obj\Debug\12.ToTheStars.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\12.ToTheStars\obj\Debug\12.ToTheStars.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\12.ToTheStars\bin\Debug\12.ToTheStars.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\12.ToTheStars\obj\Debug\12.ToTheStars.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\12.ToTheStars\obj\Debug\12.ToTheStars.pdb

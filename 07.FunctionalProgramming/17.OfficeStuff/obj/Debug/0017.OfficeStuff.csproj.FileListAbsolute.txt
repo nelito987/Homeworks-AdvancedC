@@ -1,0 +1,3 @@
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\17.OfficeStuff\bin\Debug\17.OfficeStuff.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\17.OfficeStuff\obj\Debug\17.OfficeStuff.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\17.OfficeStuff\obj\Debug\17.OfficeStuff.pdb

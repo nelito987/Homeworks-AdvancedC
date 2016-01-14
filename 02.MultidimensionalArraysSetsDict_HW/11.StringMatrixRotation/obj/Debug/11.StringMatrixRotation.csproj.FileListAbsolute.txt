@@ -1,0 +1,9 @@
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe.config
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.pdb
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.pdb

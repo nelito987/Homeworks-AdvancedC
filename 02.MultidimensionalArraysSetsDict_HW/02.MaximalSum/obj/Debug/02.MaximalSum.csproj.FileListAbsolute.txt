@@ -1,0 +1,9 @@
+c:\users\neli\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+c:\users\neli\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+c:\users\neli\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+c:\users\neli\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+c:\users\neli\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+c:\users\neli\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\02.MaximalSum\obj\Debug\02.MaximalSum.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

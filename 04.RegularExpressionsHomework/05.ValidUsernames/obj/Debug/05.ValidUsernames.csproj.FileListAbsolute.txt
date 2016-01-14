@@ -1,0 +1,9 @@
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\05.ValidUsernames\bin\Debug\05.ValidUsernames.exe.config
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\05.ValidUsernames\bin\Debug\05.ValidUsernames.exe
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\05.ValidUsernames\bin\Debug\05.ValidUsernames.pdb
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\05.ValidUsernames\obj\Debug\05.ValidUsernames.csprojResolveAssemblyReference.cache
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\05.ValidUsernames\obj\Debug\05.ValidUsernames.exe
+c:\users\neli\documents\visual studio 2013\Projects\05.ValidUsernames\05.ValidUsernames\obj\Debug\05.ValidUsernames.pdb
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\05.ValidUsernames\bin\Debug\05.ValidUsernames.exe.config
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\05.ValidUsernames\obj\Debug\05.ValidUsernames.exe
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\05.ValidUsernames\obj\Debug\05.ValidUsernames.pdb

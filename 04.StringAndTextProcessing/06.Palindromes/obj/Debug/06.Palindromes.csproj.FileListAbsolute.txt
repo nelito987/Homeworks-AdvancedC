@@ -1,0 +1,6 @@
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.pdb

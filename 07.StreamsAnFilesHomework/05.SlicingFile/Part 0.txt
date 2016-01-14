@@ -1,0 +1,15 @@
+using System;
+using System.IO;
+
+    class slicingFile
+    {
+
+        private const string sourceFile = "../../InFile.txt";
+        private const string destinationDirectory = "../../assembled.txt";
+
+        static void Main(string[] args)
+        {
+            int parts = int.Parse(Console.ReadLine());
+            SliceParts(parts);
+
+            for (int i = 0; i 

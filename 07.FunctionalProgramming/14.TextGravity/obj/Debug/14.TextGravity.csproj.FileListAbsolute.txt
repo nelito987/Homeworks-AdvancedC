@@ -1,0 +1,9 @@
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\14.TextGravity\bin\Debug\14.TextGravity.exe.config
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\14.TextGravity\bin\Debug\14.TextGravity.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\14.TextGravity\bin\Debug\14.TextGravity.pdb
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\14.TextGravity\obj\Debug\14.TextGravity.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\14.TextGravity\obj\Debug\14.TextGravity.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\14.TextGravity\obj\Debug\14.TextGravity.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\14.TextGravity\bin\Debug\14.TextGravity.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\14.TextGravity\obj\Debug\14.TextGravity.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\14.TextGravity\obj\Debug\14.TextGravity.pdb

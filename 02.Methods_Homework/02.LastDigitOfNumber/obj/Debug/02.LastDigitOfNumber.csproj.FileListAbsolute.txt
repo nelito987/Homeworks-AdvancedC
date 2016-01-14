@@ -1,0 +1,9 @@
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.csprojResolveAssemblyReference.cache
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.Methods_Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.Methods_Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.Methods_Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\11.CouplesFrequency\bin\Debug\11.CouplesFrequency.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\11.CouplesFrequency\bin\Debug\11.CouplesFrequency.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\11.CouplesFrequency\bin\Debug\11.CouplesFrequency.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\11.CouplesFrequency\obj\Debug\11.CouplesFrequency.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\11.CouplesFrequency\obj\Debug\11.CouplesFrequency.pdb

@@ -1,0 +1,7 @@
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\05.ValidUsernames\07.QueryMess\bin\Debug\07.QueryMess.exe.config
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\07.QueryMess\bin\Debug\07.QueryMess.exe.config
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\07.QueryMess\obj\Debug\07.QueryMess.csprojResolveAssemblyReference.cache
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\07.QueryMess\bin\Debug\07.QueryMess.exe
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\07.QueryMess\bin\Debug\07.QueryMess.pdb
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\07.QueryMess\obj\Debug\07.QueryMess.exe
+C:\Users\Marieta\Desktop\softuni\05.ValidUsernames\07.QueryMess\obj\Debug\07.QueryMess.pdb

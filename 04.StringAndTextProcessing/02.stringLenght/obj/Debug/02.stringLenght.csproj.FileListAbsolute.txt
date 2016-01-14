@@ -1,0 +1,9 @@
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\02.stringLenght\bin\Debug\02.stringLenght.exe.config
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\02.stringLenght\bin\Debug\02.stringLenght.exe
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\02.stringLenght\bin\Debug\02.stringLenght.pdb
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\02.stringLenght\obj\Debug\02.stringLenght.exe
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\02.stringLenght\obj\Debug\02.stringLenght.pdb
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\02.stringLenght\obj\Debug\02.stringLenght.csprojResolveAssemblyReference.cache
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\02.stringLenght\bin\Debug\02.stringLenght.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\02.stringLenght\obj\Debug\02.stringLenght.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\02.stringLenght\obj\Debug\02.stringLenght.pdb

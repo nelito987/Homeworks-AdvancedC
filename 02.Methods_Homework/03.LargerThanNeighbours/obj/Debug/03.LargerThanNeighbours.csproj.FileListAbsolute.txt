@@ -1,0 +1,8 @@
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.Methods_Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.Methods_Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.Methods_Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb

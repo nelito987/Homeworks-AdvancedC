@@ -1,0 +1,9 @@
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+c:\users\neli\documents\visual studio 2013\Projects\02.Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.Methods_Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.Methods_Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

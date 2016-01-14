@@ -1,0 +1,9 @@
+c:\users\marieta\documents\visual studio 2013\Projects\04.RegularExpressionsHomework\04.RegularExpressionsHomework\bin\Debug\04.RegularExpressionsHomework.exe.config
+c:\users\marieta\documents\visual studio 2013\Projects\04.RegularExpressionsHomework\04.RegularExpressionsHomework\bin\Debug\04.RegularExpressionsHomework.exe
+c:\users\marieta\documents\visual studio 2013\Projects\04.RegularExpressionsHomework\04.RegularExpressionsHomework\bin\Debug\04.RegularExpressionsHomework.pdb
+c:\users\marieta\documents\visual studio 2013\Projects\04.RegularExpressionsHomework\04.RegularExpressionsHomework\obj\Debug\01.SeriesOfLetters.csprojResolveAssemblyReference.cache
+c:\users\marieta\documents\visual studio 2013\Projects\04.RegularExpressionsHomework\04.RegularExpressionsHomework\obj\Debug\04.RegularExpressionsHomework.exe
+c:\users\marieta\documents\visual studio 2013\Projects\04.RegularExpressionsHomework\04.RegularExpressionsHomework\obj\Debug\04.RegularExpressionsHomework.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\01.SeriesOfLetters\bin\Debug\04.RegularExpressionsHomework.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\01.SeriesOfLetters\obj\Debug\04.RegularExpressionsHomework.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.RegularExpressionsHomework\01.SeriesOfLetters\obj\Debug\04.RegularExpressionsHomework.pdb

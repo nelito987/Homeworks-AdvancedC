@@ -1,0 +1,12 @@
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\bin\Debug\04.StringAndTextProcessing.exe.config
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\bin\Debug\04.StringAndTextProcessing.exe
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\bin\Debug\04.StringAndTextProcessing.pdb
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\04.StringAndTextProcessing.exe
+c:\users\neli\documents\visual studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\04.StringAndTextProcessing.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\bin\Debug\04.StringAndTextProcessing.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\04.StringAndTextProcessing.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\04.StringAndTextProcessing.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\01.ReverseString\bin\Debug\04.StringAndTextProcessing.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\01.ReverseString\obj\Debug\04.StringAndTextProcessing.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\04.StringAndTextProcessing\01.ReverseString\obj\Debug\04.StringAndTextProcessing.pdb

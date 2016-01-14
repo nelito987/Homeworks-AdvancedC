@@ -1,0 +1,9 @@
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\06.Disk\bin\Debug\06.Disk.exe.config
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\06.Disk\bin\Debug\06.Disk.exe
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\06.Disk\bin\Debug\06.Disk.pdb
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\06.Disk\obj\Debug\09.Disk.csprojResolveAssemblyReference.cache
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\06.Disk\obj\Debug\06.Disk.exe
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\06.Disk\obj\Debug\06.Disk.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\09.Disk\bin\Debug\06.Disk.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\09.Disk\obj\Debug\06.Disk.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\09.Disk\obj\Debug\06.Disk.pdb

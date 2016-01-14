@@ -1,0 +1,9 @@
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\15.UppercaseWords\bin\Debug\15.UppercaseWords.exe.config
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\15.UppercaseWords\bin\Debug\15.UppercaseWords.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\15.UppercaseWords\bin\Debug\15.UppercaseWords.pdb
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\15.UppercaseWords\obj\Debug\15.UppercaseWords.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\15.UppercaseWords\obj\Debug\15.UppercaseWords.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\15.UppercaseWords\obj\Debug\15.UppercaseWords.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\15.UppercaseWords\bin\Debug\15.UppercaseWords.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\15.UppercaseWords\obj\Debug\15.UppercaseWords.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.FunctionalProgramming\15.UppercaseWords\obj\Debug\15.UppercaseWords.pdb

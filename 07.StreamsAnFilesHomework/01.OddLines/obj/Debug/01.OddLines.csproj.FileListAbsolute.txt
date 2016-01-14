@@ -1,0 +1,9 @@
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\07.StreamsAnFilesHomework\bin\Debug\07.StreamsAnFilesHomework.exe.config
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\07.StreamsAnFilesHomework\bin\Debug\07.StreamsAnFilesHomework.exe
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\07.StreamsAnFilesHomework\bin\Debug\07.StreamsAnFilesHomework.pdb
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\07.StreamsAnFilesHomework\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\07.StreamsAnFilesHomework\obj\Debug\07.StreamsAnFilesHomework.exe
+c:\users\marieta\documents\visual studio 2013\Projects\07.StreamsAnFilesHomework\07.StreamsAnFilesHomework\obj\Debug\07.StreamsAnFilesHomework.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\01.OddLines\bin\Debug\07.StreamsAnFilesHomework.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\01.OddLines\obj\Debug\07.StreamsAnFilesHomework.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\07.StreamsAnFilesHomework\01.OddLines\obj\Debug\07.StreamsAnFilesHomework.pdb

@@ -1,0 +1,9 @@
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\10.PlusRemove_2\bin\Debug\10.PlusRemove_2.exe.config
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\10.PlusRemove_2\bin\Debug\10.PlusRemove_2.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\10.PlusRemove_2\bin\Debug\10.PlusRemove_2.pdb
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\10.PlusRemove_2\obj\Debug\10.PlusRemove_2.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\10.PlusRemove_2\obj\Debug\10.PlusRemove_2.exe
+C:\Users\Neli\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\10.PlusRemove_2\obj\Debug\10.PlusRemove_2.pdb
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\10.PlusRemove_2\bin\Debug\10.PlusRemove_2.exe.config
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\10.PlusRemove_2\obj\Debug\10.PlusRemove_2.exe
+C:\Users\Marieta\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDict_HW\10.PlusRemove_2\obj\Debug\10.PlusRemove_2.pdb

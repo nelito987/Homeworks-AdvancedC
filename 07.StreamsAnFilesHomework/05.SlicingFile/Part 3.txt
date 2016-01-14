@@ -1,0 +1,11 @@
+          sourceStream.Read(buffer, 0, buffer.Length);
+                        destination.Write(buffer, 0, buffer.Length);
+                    }
+                }
+            }
+        }
+        static void AssembleFile(int i)
+        {
+            using (var sourceFiles = new FileStream(string.Format("../../Part {0}.txt", i), FileMode.Open))
+            {
+          
